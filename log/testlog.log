@@ -1,0 +1,6 @@
+2023-07-10 12:50:43,758 - Log4jExample -INFO - Browser Opened
+2023-07-10 12:50:43,767 - Log4jExample -INFO - Implicit wait given
+2023-07-10 12:50:47,374 - Log4jExample -INFO - Url opened
+2023-07-10 12:50:47,550 - Log4jExample -INFO - Maximizing the browser
+2023-07-10 12:50:49,766 - Log4jExample -INFO - keyword type
+2023-07-10 12:50:52,347 - Log4jExample -INFO - Browser Closed
